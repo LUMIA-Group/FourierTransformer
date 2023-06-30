@@ -1,0 +1,296 @@
+logs_rte/dct6_50_lr25_s789_bs32,accuracy52.7
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy81.6
+logs_rte/dct6_50_lr25_s789_bs32,accuracy57.8
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy85.8
+logs_rte/dct6_50_lr25_s789_bs32,accuracy60.6
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy86.5
+logs_rte/dct6_50_lr25_s789_bs32,accuracy63.9
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy86.5
+logs_rte/dct6_50_lr25_s789_bs32,accuracy64.3
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy86.5
+logs_rte/dct6_50_lr25_s789_bs32,accuracy65.7
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy87.7
+logs_rte/dct6_50_lr25_s789_bs32,accuracy65.7
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy87.7
+logs_rte/dct6_50_lr25_s789_bs32,accuracy67.1
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy87.7
+logs_mrpc/dct6_50_lr15_s666_bs32,accuracy87.7
+logs_rte/dct6_50_lr25_s789_bs32,accuracy67.1
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy84.6
+logs_rte/dct6_50_lr25_s123_bs32,accuracy56.3
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy85.0
+logs_rte/dct6_50_lr25_s123_bs32,accuracy58.1
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy85.5
+logs_rte/dct6_50_lr25_s123_bs32,accuracy65.0
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy87.5
+logs_rte/dct6_50_lr25_s123_bs32,accuracy65.0
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy87.5
+logs_rte/dct6_50_lr25_s123_bs32,accuracy65.0
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy87.5
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy92.2
+logs_rte/dct6_50_lr25_s123_bs32,accuracy65.0
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy87.5
+logs_rte/dct6_50_lr25_s123_bs32,accuracy67.5
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy87.5
+logs_mrpc/dct6_50_lr25_s666_bs32,accuracy87.7
+logs_rte/dct6_50_lr25_s123_bs32,accuracy67.5
+logs_rte/dct6_50_lr25_s123_bs32,accuracy67.5
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy87.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy87.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy87.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy87.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy87.0
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.2
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy88.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy88.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy88.0
+logs_mrpc/dct6_50_lr35_s666_bs32,accuracy88.0
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy82.6
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy86.3
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy86.3
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.3
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy86.3
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy87.0
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy87.0
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy87.0
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy87.0
+logs_mrpc/dct6_50_lr15_s666_bs16,accuracy87.0
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.3
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 82.4
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 86.5
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 86.8
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 86.8
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 88.0
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 88.0
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 88.0
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.3
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 88.0
+logs_mrpc/dct6_50_lr25_s666_bs16,accuracy: 88.0
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 82.8
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 85.8
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 85.8
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.3
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 87.0
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 88.7
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 89.5
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 89.5
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 89.5
+logs_mrpc/dct6_50_lr35_s666_bs16,accuracy: 89.5
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.6
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.8
+logs_sst2/dct6_50_lr15_s666_bs32,accuracy93.8
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 92.4
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 92.4
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy88.5
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 93.1
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 93.1
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 93.1
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 94.4
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 94.4
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 94.4
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy90.1
+logs_sst2/dct6_50_lr25_s666_bs32,accuracy: 94.4
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 86.3
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 93.3
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 93.3
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 93.3
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy90.9
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 93.3
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 93.9
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 93.9
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 86.8
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 94.0
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 94.0
+logs_sst2/dct6_50_lr35_s666_bs32,accuracy: 94.0
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy90.9
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 86.9
+logs_sst2/dct6_50_lr15_s666_bs16,accuracy: 93.5
+logs_sst2/dct6_50_lr15_s666_bs16,accuracy: 94.0
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy91.2
+logs_sst2/dct6_50_lr15_s666_bs16,accuracy: 94.0
+logs_sst2/dct6_50_lr15_s666_bs16,accuracy: 94.0
+logs_sst2/dct6_50_lr15_s666_bs16,accuracy: 94.0
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 87.1
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy91.5
+logs_sst2/dct6_50_lr25_s666_bs16,accuracy: 93.0
+logs_sst2/dct6_50_lr25_s666_bs16,accuracy: 93.8
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 87.1
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy91.5
+logs_sst2/dct6_50_lr25_s666_bs16,accuracy: 94.3
+logs_sst2/dct6_50_lr25_s666_bs16,accuracy: 94.3
+logs_sst2/dct6_50_lr25_s666_bs16,accuracy: 94.3
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy91.6
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 87.1
+logs_sst2/dct6_50_lr35_s666_bs16,accuracy: 92.7
+logs_sst2/dct6_50_lr35_s666_bs16,accuracy: 92.7
+logs_sst2/dct6_50_lr35_s666_bs16,accuracy: 92.7
+logs_qqp/dct6_50_lr15_s666_bs32,accuracy91.6
+logs_sst2/dct6_50_lr35_s666_bs16,accuracy: 92.7
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 87.1
+logs_sst2/dct6_50_lr35_s666_bs16,accuracy: 92.7
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 91.7
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 91.8
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 87.1
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 91.8
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 92.2
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 89.5
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 92.2
+logs_mnli/dct6_50_lr15_s666_bs32,accuracy: 87.1
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 92.2
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 92.2
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 90.3
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 92.3
+logs_qnli/dct6_50_lr15_s666_bs32,accuracy: 92.3
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 90.9
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.2
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.2
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.1
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.2
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 91.1
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.2
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.2
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.2
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.3
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 91.2
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.3
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.4
+logs_qnli/dct6_50_lr25_s666_bs32,accuracy: 92.4
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 91.5
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.4
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 91.7
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 91.7
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_qqp/dct6_50_lr25_s666_bs32,accuracy: 91.7
+logs_qnli/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr15_s666_bs16,accuracy: 90.7
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr15_s666_bs16,accuracy: 91.8
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 89.3
+logs_qnli/dct6_50_lr15_s666_bs16,accuracy: 92.0
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr15_s666_bs16,accuracy: 92.2
+logs_qnli/dct6_50_lr15_s666_bs16,accuracy: 92.2
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 90.2
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 90.6
+logs_mnli/dct6_50_lr25_s666_bs32,accuracy: 86.8
+logs_qnli/dct6_50_lr25_s666_bs16,accuracy: 91.0
+logs_qnli/dct6_50_lr25_s666_bs16,accuracy: 91.5
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 91.0
+logs_qnli/dct6_50_lr25_s666_bs16,accuracy: 91.9
+logs_qnli/dct6_50_lr25_s666_bs16,accuracy: 92.2
+logs_qnli/dct6_50_lr25_s666_bs16,accuracy: 92.2
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 91.2
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.2
+logs_qnli/dct6_50_lr35_s666_bs16,accuracy: 91.3
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 91.4
+logs_qnli/dct6_50_lr35_s666_bs16,accuracy: 91.3
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.5
+logs_qnli/dct6_50_lr35_s666_bs16,accuracy: 91.3
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 91.6
+logs_qnli/dct6_50_lr35_s666_bs16,accuracy: 91.3
+logs_qnli/dct6_50_lr35_s666_bs16,accuracy: 91.3
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.7
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 91.7
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.7
+logs_qqp/dct6_50_lr35_s666_bs32,accuracy: 91.7
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.9
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.9
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.9
+logs_qqp/dct6_50_lr15_s666_bs16,accuracy: 90.2
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.9
+logs_mnli/dct6_50_lr35_s666_bs32,accuracy: 85.9
+logs_qqp/dct6_50_lr15_s666_bs16,accuracy: 90.8
+logs_qqp/dct6_50_lr15_s666_bs16,accuracy: 91.1
+logs_qqp/dct6_50_lr15_s666_bs16,accuracy: 91.3
+logs_qqp/dct6_50_lr15_s666_bs16,accuracy: 91.3
+logs_mnli/dct6_50_lr15_s666_bs16,accuracy: 86.1
+logs_mnli/dct6_50_lr15_s666_bs16,accuracy: 86.7
+logs_qqp/dct6_50_lr25_s666_bs16,accuracy: 90.1
+logs_mnli/dct6_50_lr15_s666_bs16,accuracy: 87.1
+logs_qqp/dct6_50_lr25_s666_bs16,accuracy: 90.9
+logs_mnli/dct6_50_lr15_s666_bs16,accuracy: 87.1
+logs_mnli/dct6_50_lr15_s666_bs16,accuracy: 87.1
+logs_qqp/dct6_50_lr25_s666_bs16,accuracy: 91.3
+logs_qqp/dct6_50_lr25_s666_bs16,accuracy: 91.6
+logs_qqp/dct6_50_lr25_s666_bs16,accuracy: 91.6
+logs_mnli/dct6_50_lr25_s666_bs16,accuracy: 85.4
+logs_mnli/dct6_50_lr25_s666_bs16,accuracy: 86.5
+logs_qqp/dct6_50_lr35_s666_bs16,accuracy: 89.4
+logs_mnli/dct6_50_lr25_s666_bs16,accuracy: 86.5
+logs_qqp/dct6_50_lr35_s666_bs16,accuracy: 89.9
+logs_mnli/dct6_50_lr25_s666_bs16,accuracy: 86.6
+logs_mnli/dct6_50_lr25_s666_bs16,accuracy: 86.6
+logs_qqp/dct6_50_lr35_s666_bs16,accuracy: 91.0
+logs_qqp/dct6_50_lr35_s666_bs16,accuracy: 91.4
+logs_qqp/dct6_50_lr35_s666_bs16,accuracy: 91.4
+logs_mnli/dct6_50_lr35_s666_bs16,accuracy: 84.1
+logs_mnli/dct6_50_lr35_s666_bs16,accuracy: 85.4
+logs_mnli/dct6_50_lr35_s666_bs16,accuracy: 85.9
+logs_mnli/dct6_50_lr35_s666_bs16,accuracy: 85.9
+logs_mnli/dct6_50_lr35_s666_bs16,accuracy: 86.0
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 79.3
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 80.9
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 82.7
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 83.3
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 83.3
+logs_cola/dct6_50_lr15_s666_bs32,accuracy: 83.3
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 79.5
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.5
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.5
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.5
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.5
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.7
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.8
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.8
+logs_cola/dct6_50_lr25_s666_bs32,accuracy: 82.8
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 81.2
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 81.2
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 81.2
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 81.2
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 83.4
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 83.4
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 83.4
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 83.4
+logs_cola/dct6_50_lr35_s666_bs32,accuracy: 83.4
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 80.2
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 80.2
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 80.9
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 80.9
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 82.2
+logs_cola/dct6_50_lr15_s666_bs16,accuracy: 82.2
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 80.7
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 80.7
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr25_s666_bs16,accuracy: 82.6
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 81.5
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 81.5
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_cola/dct6_50_lr35_s666_bs16,accuracy: 82.9
+logs_rte/dct6_50_lr15_s926_bs32,accuracy: 53.4
+logs_mrpc/dct6_50_lr15_s926_bs32,accuracy: 85.3
