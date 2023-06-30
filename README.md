@@ -57,11 +57,12 @@ wget -N 'https://dl.fbaipublicfiles.com/fairseq/gpt2_bpe/dict.txt'
   Follow [this script](https://github.com/facebookresearch/fairseq/blob/main/examples/bart/README.summarization.md).
 
 2. Fine-tuning Fourier Transformer on CNN-DM summarization task:
-  ```bash
-  cd Summarization
-  sh submits/cnn-dm.sh
-  ```
-3. Evaluate:
+   ```bash
+   cd Summarization
+   sh submits/cnn-dm.sh
+   ```
+
+3. Evaluate:  
    For calculating rouge, install files2rouge from [here](https://github.com/pltrdy/files2rouge).
    ```
    sh submits/eval-cnn-dm.sh
