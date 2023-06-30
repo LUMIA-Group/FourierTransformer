@@ -61,6 +61,11 @@ wget -N 'https://dl.fbaipublicfiles.com/fairseq/gpt2_bpe/dict.txt'
   cd Summarization
   sh submits/cnn-dm.sh
   ```
+3. Evaluate:
+   For calculating rouge, install files2rouge from [here](https://github.com/pltrdy/files2rouge).
+   ```
+   sh submits/eval-cnn-dm.sh
+   ```
 
 ### ELIT5
 
