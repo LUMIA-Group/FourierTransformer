@@ -68,8 +68,19 @@ wget -N 'https://dl.fbaipublicfiles.com/fairseq/gpt2_bpe/dict.txt'
    sh submits/eval-cnn-dm.sh
    ```
 
-### ELIT5
+### ELI5
+1. Download, Preprocess and Binarize: 
+ Follow [this script](https://github.com/facebookresearch/ELI5#readme).
 
+2. Fine-tuning Fourier Transformer on ELI5 QA task:
+   ```bash
+   cd Summarization
+   sh submits/eli5.sh
+   ```
+3. Evaluate:
+   ```
+   sh submits/eval_eli5.sh
+   ```
 
 ### LRA
 As mentioned in our paper, the code for LRA is build from [this repository](https://github.com/mlpen/Nystromformer/tree/main/LRA). Please follow the scripts there to prepare the datasets.

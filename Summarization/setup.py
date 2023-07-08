@@ -28,8 +28,6 @@ def write_version_py():
 version = write_version_py()
 
 
-with open("README.md") as f:
-    readme = f.read()
 
 
 if sys.platform == "darwin":
@@ -174,7 +172,6 @@ def do_setup(package_data):
             "Programming Language :: Python :: 3.8",
             "Topic :: Scientific/Engineering :: Artificial Intelligence",
         ],
-        long_description=readme,
         long_description_content_type="text/markdown",
         install_requires=[
             "cffi",
