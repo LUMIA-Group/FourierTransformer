@@ -4,7 +4,7 @@
 # LICENSE file in the root directory of this source tree.
 
 import torch
-from custom_code.bart_dct import BARTModel
+from bart_dct import BARTModel
 import argparse
 
 
